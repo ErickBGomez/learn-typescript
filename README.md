@@ -1,21 +1,3 @@
-# Order
-
-1. configuration-options
-2. using-ide-features
-3. the-type-system
-4. type-operations
-5. type-modifiers
-6. unions-and-literals
-7. arrays
-8. object
-9. functions
-10. classes
-11. interfaces
-12. generic
-13. syntax-extensions
-14. declarations-files
-15. from-javascript-to-typescript
-
 <h1 align="center"><em>Learning TypeScript</em> Projects</h1>
 
 <p align="center">Hands-on real world projects that will help you exercise your knowledge of TypeScript.</p>
